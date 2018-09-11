@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a Small Web Developer with UNIX Behind me, I create small pointless projects time to time
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm using this as my blog while I travel with my PocketChip
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[admin@zaviinet.co.uk](mailto:admin@zaviinet.co.uk)
